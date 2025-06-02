@@ -6,7 +6,7 @@
 
 💡 I'm also a mother of a neurodivergent child, and deeply interested in **neurodiversity**, **inclusive education**, and how we can design systems — from landscapes to learning environments — that are more resilient, compassionate, and adaptive.
 
-## 👀 I’m interested in:
+## I’m interested in:
 - Land-use change, ecological modeling & restoration
 - Regenerative agroforestry and climate-smart agriculture
 - Carbon and biodiversity monitoring
@@ -28,11 +28,10 @@
 ## 📫 How to reach me:
 - 📧 ggrusca@ufscar.estudante.br | ggalettirusca@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabigaletti)
-- 🧪 [ORCiD](https://orcid.org/0009-0001-5477-658X)
 - 📚 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Pbu5oDcAAAAJ)
 
 ## 😄 Pronouns:
 She / Ela
 
-## ⚡ Fun fact:
+
 I believe storytelling, science, and systems thinking can (and should!) regenerate both landscapes and livelihoods 🌱💡
