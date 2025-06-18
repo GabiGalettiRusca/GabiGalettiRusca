@@ -19,7 +19,7 @@
 - Landscape metrics and spatial statistics
 - Applications of AI in sustainability and scientific research
 
-## 💞️ I’m looking to collaborate on:
+## I’m looking to collaborate on:
 - Projects and research that intersect sustainability, climate resilience, and environmental data science
 - Agroforestry systems performance and landscape-scale restoration
 - Methodologies to monitor ESG and SDG indicators in rural contexts
