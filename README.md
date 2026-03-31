@@ -6,6 +6,8 @@
 
 💡 I'm also a mother of a neurodivergent child, and deeply interested in **neurodiversity**, **inclusive education**, and how we can design systems - from landscapes to learning environments - that are more resilient, compassionate, and adaptive.
 
+🐾 I’m also an animal protector and a volunteer for the animal cause.
+
 ## I’m interested in:
 - Land-use change, ecological modeling & restoration
 - Agroforestry, climate-smart and regenerative agriculture
