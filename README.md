@@ -1,40 +1,59 @@
-# 👋 Hi, I’m Gabriela Galetti Rusca (@GabiGalettiRusca)
+# Gabriela Galetti Rusca
 
-🌿 I'm a Forest Engineer, Rural & Environmental Consultant, and currently a Ph.D. Candidate in Environmental Sciences at UFSCar – focusing on **landscape management**, **soil health**, **climate resilience**, **forest restoration**, **agroflorestry** and **regenerative agriculture**.
+Forest Engineer, Environmental Consultant and PhD Candidate in Environmental Sciences at UFSCar.
 
-🔬 I’m passionate about science-based solutions for sustainable land use, biodiversity conservation, and nature-based strategies to restore ecosystems and rural economies. I work at the intersection of research, consulting, and policy - integrating GIS, data anaylis, environmental modeling, and socioecological planning.
+This profile brings together projects, workflows and methodological experiments at the intersection of **agroforestry**, **forest restoration**, **soil health**, **landscape ecology**, **climate resilience** and **geospatial analysis**.
 
-💡 I'm also a mother of a neurodivergent child, and deeply interested in **neurodiversity**, **inclusive education**, and how we can design systems - from landscapes to learning environments - that are more resilient, compassionate, and adaptive.
+## Current focus
 
-🐾 I’m also an animal protector and a volunteer for the animal cause.
+Current work connects **research, field monitoring, environmental diagnostics and data-based interpretation** across tropical rural landscapes. Ongoing interests include:
 
-## I’m interested in:
-- Land-use change, ecological modeling & restoration
-- Agroforestry, climate-smart and regenerative agriculture
-- Soil health
-- Carbon and biodiversity monitoring
-- Nature-based solutions (NbS) and environmental governance
-- Open data, remote sensing & geospatial tools (R, QGIS, Google Earth Engine)
-- Neurodiversity, giftedness, inclusive education & emotional development
+- cocoa agroforestry systems and soil functional health  
+- restoration monitoring and ecological indicators  
+- landscape structure, biodiversity and climate resilience  
+- GIS, remote sensing and reproducible analytical workflows  
+- methodological tools for applied environmental assessment
 
-## 🌱 I’m currently learning:
-- Machine Learning for Environmental Applications (R, Python, Colab)
-- Landscape metrics and spatial statistics
-- Applications of AI in sustainability and scientific research
+## What this GitHub is for
 
-## I’m looking to collaborate on:
-- Projects and research that intersect sustainability, climate resilience, and environmental data science
-- Agroforestry systems performance and landscape-scale restoration
-- Methodologies to monitor ESG and SDG indicators in rural contexts
-- Interdisciplinary initiatives that integrate ecology, education, and neurodiversity
+This GitHub is being structured as a professional and academic portfolio to document:
 
-## 📫 How to reach me:
-- 📧 ggrusca@ufscar.estudante.br | ggalettirusca@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gabigaletti)
-- 📚 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Pbu5oDcAAAAJ)
+- analytical scripts and reproducible workflows  
+- case-study repositories connected to agroforestry, restoration and environmental assessment  
+- methodological notes and monitoring structures  
+- selected tools and demonstrative project architectures
 
-## 😄 Pronouns:
-She / Ela
+Some repositories are fully public for learning and collaboration purposes, while others are intentionally presented as **conceptual or demonstrative portfolios** in order to protect ongoing applied developments.
 
+## Areas of expertise
 
-I believe storytelling, science, and systems thinking can (and should!) regenerate both landscapes and livelihoods 🌱💡
+- Agroforestry systems and productive restoration  
+- Soil health assessment and field indicators  
+- Landscape ecology and biodiversity-related diagnostics  
+- Environmental regularization and rural land-use analysis  
+- GIS, remote sensing and spatial interpretation  
+- Research design, technical writing and applied environmental workflows
+
+## Selected tools
+
+Main tools currently used across projects include **R**, **Python**, **QGIS**, **ArcGIS**, **Google Earth Engine** and structured spreadsheet-based monitoring systems.
+
+## A note on values and perspective
+
+Beyond technical work, this profile is also grounded in a strong interest in **inclusive, resilient and regenerative systems** — whether in landscapes, learning processes or collaborative environments. That broader perspective helps connect scientific rigor with care, adaptability and long-term transformation.
+
+## Collaboration and contact
+
+Interest in collaborations involving:
+
+- agroforestry and cocoa landscapes  
+- restoration monitoring and field protocols  
+- soil health and ecological indicators  
+- geospatial analysis for environmental decision-making  
+- applied research linking science, land use and implementation
+
+Contact and academic links:
+
+- LinkedIn: [linkedin.com/in/gabigaletti](https://www.linkedin.com/in/gabigaletti)  
+- Google Scholar: [Scholar profile](https://scholar.google.com.br/citations?hl=pt-BR&user=Pbu5oDcAAAAJ)  
+- ORCID: [0009-0001-5477-658X](https://orcid.org/0009-0001-5477-658X)
